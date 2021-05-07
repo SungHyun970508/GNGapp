@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="topview" type="id" />
+    <item name="et_id" type="id" />
+    <item name="et_pw" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="btn_register" type="id" />
+    <item name="camerapopBtn" type="id" />
+    <item name="ClosepopBtn" type="id" />
+</resources>
